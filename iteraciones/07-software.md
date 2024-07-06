@@ -4,8 +4,8 @@
 - viernes 04/03/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
 - lunes 07/03/2022
+- [Material](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/4-software)
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/software)
-  - [Registro](https://forms.gle/xiXXdz2dyd7zL1Xp9)
 - martes 08/03/2022 - jueves 10/03/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1C5YENShHM3wKNoEaxJBL11NyQmyW2s6h2qRpg6URYmE/edit?usp=sharing)
   

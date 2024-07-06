@@ -102,3 +102,6 @@
 | [lab-boole](https://github.com/USantaTecla-ed-mpds/lab-boole) | [sala](https://meet.jit.si/lab-boole)
 | [lab-turing](https://github.com/USantaTecla-ed-mpds/lab-turing) | [sala](https://meet.jit.si/lab-turing)
 
+## ANA LUISA 
+### MEJIA CUBAS
+
