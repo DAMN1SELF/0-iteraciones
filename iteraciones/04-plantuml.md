@@ -5,7 +5,6 @@
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
 - lunes 14/02/2022
   - [Exposición](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
-  - [Registro](https://forms.gle/FX2XQCgAtrhjNwgu9)
 - martes 15/02/2022 - jueves 17/02/2022
   - [Proyectos](https://docs.google.com/spreadsheets/d/1PXH4SUsryWOpOwO9rtNUSzg4TvzqFVZPLnKFYU08FUA/edit?usp=sharing)
   
@@ -18,7 +17,7 @@
 - sabado 19/02/2022 - domingo 20/02/2022
   - [Prueba](https://forms.gle/dJXMeJaRNyXLWCzH7)
 - lunes 21/02/2022
-  - [Corrección de Prueba](https://escuela.it/master-programacion-diseno-software)
+  - [Corrección de Prueba](https://escuela.it/masters/master-programacion-diseno-software/estudiantes/plantuml)
   - [Solución de Prueba](../iteraciones/pruebas/soluciónPruebaPlantUML.md)
 - [Comunidad](https://app.slack.com/client/T02S3KYD464/C02SY4QES31)
 
